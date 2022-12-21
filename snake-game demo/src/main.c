@@ -84,7 +84,7 @@ int rond(){
     return x_0 ;
 }
 int main(){
-/*
+
     Task_InitGame();
 
     for  (;  ;){
@@ -94,10 +94,7 @@ int main(){
         RanD(&snake);
     }
 
-*/
 
-for (int i = 0 ; i <100 ; i++){
-    printf("%d ",rond());
-}
+
 
 }
