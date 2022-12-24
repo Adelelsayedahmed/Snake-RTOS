@@ -2,7 +2,7 @@
 Implementing snake game using microcontroller tm4c123gh6pm with RTOS
 
 ## Main Project Components
-1) Design and implement ** our Kernel** (scheduler and context switching )  
+1) Design and implement **our Kernel** (scheduler and context switching )  
 2) kernel supports interrupts and semaphores 
 3) snake game which is implemented with many tasks schadeuled by our RTOS 
 
