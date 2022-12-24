@@ -1,5 +1,5 @@
 # First Demo
-in this Demo the game is implemented on PC not on Tiva C micro controller to test the basic features 
+In this **first version Demo** the game is implemented on PC not on Tiva C micro controller to test the basic features 
 
 ## Tested Features : 
 1) Drawing Task  
